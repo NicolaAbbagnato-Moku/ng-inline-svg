@@ -12,8 +12,13 @@ logs
 node_modules
 
 # Built files
-lib_commonjs/
-lib_esmodule/
+demo
+src
+.editorconfig
+package-lock.json
+tsconfig.json
+tsconfig.module.json
+tslint.json
 
 # Built demo files
 demo/dist
